@@ -135,4 +135,4 @@ def vn(entradas):
 inputs = [5.4*9.81,0.3339, 2.1, 19.45, 0.21, 3.513]
 
 vn(inputs)
-	
+print('Teste')
